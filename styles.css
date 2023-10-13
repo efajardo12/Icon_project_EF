@@ -1,0 +1,28 @@
+body {
+    margin: 40px;
+    color: #333;
+}
+
+img { 
+width: 50%;
+heigth: auto;
+display: block;
+margin: 0 auto;
+
+} 
+
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 30px;
+
+}
+
+h1 {
+font-family: Roboto;
+}
+
+p {
+text-align: justify;
+margin: 20px 0;
+}
